@@ -7,7 +7,7 @@ Welcome to my internship journey as a **Software Developer Intern at Innova Solu
 
 ## 🔍 Overview
 - **Role**: Software Developer Intern
-- **Duration**: May – [End Date]
+- **Duration**: May – June Mid
 - **Assigned Tech Stack**: Snowflake, IICS
 - **Focus Areas**: Data Engineering, Cloud Integration, Real-world Projects
 
