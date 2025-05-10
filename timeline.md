@@ -14,3 +14,9 @@
 - Mentor meeting and discussion on snowflake
 - Discussion on snowsight
 - Created Snowflake account
+
+## Day 4
+- Mentor meeting and discussion on sql
+- Basic sql commands practice on snowflake
+- Understanding snowflake web interface
+- Theory on snowflake
