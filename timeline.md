@@ -20,3 +20,14 @@
 - Basic sql commands practice on snowflake
 - Understanding snowflake web interface
 - Theory on snowflake
+
+## Day 5
+- Mentor meeting & disccussion on tables, views
+- Sql commands on streams and tables
+- Practice on snowflake ui
+
+## Day 6
+- Mentor meet and discussion on tasks, sequence
+- Learnt about how to create different types of stored procedures
+- Learnt about share in snowflake
+- Practiced different types of sql commmands on above topics
